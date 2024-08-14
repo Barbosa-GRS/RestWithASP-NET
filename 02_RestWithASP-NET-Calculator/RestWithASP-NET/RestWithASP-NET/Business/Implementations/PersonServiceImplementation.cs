@@ -16,7 +16,7 @@ namespace RestWithASP_NET.Business.Implementations
             _repository = repository;
         }
 
-        public List<Person> FindAll()
+        public List<Model.Person> FindAll()
         {
             /* sem banco de dados
              List<Person> persons = new List<Person>();
@@ -28,18 +28,18 @@ namespace RestWithASP_NET.Business.Implementations
             return _repository.FindAll();
         }
 
-        public Person FindByID(long id)
+        public Model.Person FindByID(long id)
         {
             return _repository.FindByID(id);
 
         }
 
-        public Person Create(Person person)
+        public Model.Person Create(Model.Person person)
         {
             return _repository.Create(person);
         }
 
-        public Person Update(Person person)
+        public Model.Person Update(Model.Person person)
         {
             return _repository.Update(person);
         }
