@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\02_restwithasp-net-calculator\\restwithasp-net\\restwithasp-net\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\02_restwithasp-net-calculator\\restwithasp-net\\restwithasp-net\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\02_restwithasp-net-calculator\\restwithasp-net\\restwithasp-net\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\02_restwithasp-net-calculator\\restwithasp-net\\restwithasp-net\\business\\implementations\\bookserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\business\\implementations\\bookserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\02_restwithasp-net-calculator\\restwithasp-net\\restwithasp-net\\business\\implementations\\personserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\business\\implementations\\personserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\02_restwithasp-net-calculator\\restwithasp-net\\restwithasp-net\\business\\ibookbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\business\\ibookbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\02_restwithasp-net-calculator\\restwithasp-net\\restwithasp-net\\business\\ipersonbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\repository\\implementations\\bookrepositoryimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\02_restwithasp-net-calculator\\restwithasp-net\\restwithasp-net\\repository\\implementations\\personrepositoryimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\repository\\implementations\\personrepositoryimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\02_restwithasp-net-calculator\\restwithasp-net\\restwithasp-net\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,12 +35,24 @@
       "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\02_restwithasp-net-calculator\\restwithasp-net\\restwithasp-net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\02_restwithasp-net-calculator\\restwithasp-net\\restwithasp-net\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\02_restwithasp-net-calculator\\restwithasp-net\\restwithasp-net\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\02_restwithasp-net-calculator\\restwithasp-net\\restwithasp-net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\02_restwithasp-net-calculator\\restwithasp-net\\restwithasp-net\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\02_restwithasp-net-calculator\\restwithasp-net\\restwithasp-net\\repository\\implementations\\personrepositoryimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\repository\\implementations\\personrepositoryimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,54 +62,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "RestWithASP-NET\\Controllers\\BookController.cs",
-              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Controllers\\BookController.cs",
-              "RelativeToolTip": "RestWithASP-NET\\Controllers\\BookController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T01:24:55.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IBookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Repository\\IBookRepository.cs",
-              "RelativeDocumentMoniker": "RestWithASP-NET\\Repository\\IBookRepository.cs",
-              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Repository\\IBookRepository.cs",
-              "RelativeToolTip": "RestWithASP-NET\\Repository\\IBookRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T01:19:49.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookRepositoryImplementation.cs",
-              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Repository\\Implementations\\BookRepositoryImplementation.cs",
-              "RelativeDocumentMoniker": "RestWithASP-NET\\Repository\\Implementations\\BookRepositoryImplementation.cs",
-              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Repository\\Implementations\\BookRepositoryImplementation.cs",
-              "RelativeToolTip": "RestWithASP-NET\\Repository\\Implementations\\BookRepositoryImplementation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T01:17:33.256Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Model\\Book.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Model\\Book.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Model\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:02:52.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "IBookBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Business\\IBookBusiness.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Business\\IBookBusiness.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Business\\IBookBusiness.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Business\\IBookBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T01:33:36.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "IPersonBusiness.cs",
               "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Business\\IPersonBusiness.cs",
               "RelativeDocumentMoniker": "RestWithASP-NET\\Business\\IPersonBusiness.cs",
@@ -116,7 +115,7 @@
               "RelativeDocumentMoniker": "RestWithASP-NET\\Business\\Implementations\\PersonServiceImplementation.cs",
               "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Business\\Implementations\\PersonServiceImplementation.cs",
               "RelativeToolTip": "RestWithASP-NET\\Business\\Implementations\\PersonServiceImplementation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T01:12:28.04Z",
               "EditorCaption": ""
@@ -136,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "PersonController.cs",
               "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Controllers\\PersonController.cs",
               "RelativeDocumentMoniker": "RestWithASP-NET\\Controllers\\PersonController.cs",
@@ -144,25 +143,89 @@
               "RelativeToolTip": "RestWithASP-NET\\Controllers\\PersonController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T00:59:37.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T00:59:37.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Model\\Person.cs",
               "RelativeDocumentMoniker": "RestWithASP-NET\\Model\\Person.cs",
               "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Model\\Person.cs",
               "RelativeToolTip": "RestWithASP-NET\\Model\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBYAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T00:57:11.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Program.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Program.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Program.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvyEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T01:25:45.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "BookRepositoryImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Repository\\Implementations\\BookRepositoryImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Repository\\Implementations\\BookRepositoryImplementation.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Repository\\Implementations\\BookRepositoryImplementation.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Repository\\Implementations\\BookRepositoryImplementation.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T01:17:33.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookServiceImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Business\\Implementations\\BookServiceImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Business\\Implementations\\BookServiceImplementation.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Business\\Implementations\\BookServiceImplementation.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Business\\Implementations\\BookServiceImplementation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T01:34:22.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Repository\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Repository\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Repository\\IBookRepository.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Repository\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T01:19:49.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Controllers\\BookController.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T01:24:55.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "PersonRepositoryImplementation.cs",
               "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Repository\\Implementations\\PersonRepositoryImplementation.cs",
               "RelativeDocumentMoniker": "RestWithASP-NET\\Repository\\Implementations\\PersonRepositoryImplementation.cs",
@@ -170,21 +233,7 @@
               "RelativeToolTip": "RestWithASP-NET\\Repository\\Implementations\\PersonRepositoryImplementation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T00:50:51.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Program.cs",
-              "RelativeDocumentMoniker": "RestWithASP-NET\\Program.cs",
-              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Program.cs",
-              "RelativeToolTip": "RestWithASP-NET\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T01:25:45.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T00:50:51.057Z"
             }
           ]
         }

@@ -1,8 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using RestWithASPNETErudio.Model;
-using RestWithASPNETErudio.Business;
 using Asp.Versioning;
-using RestWithASP_NET.Model.Context;
+using RestWithASP_NET.Business;
+using RestWithASP_NET.Model;
 
 namespace RestWithASPNETErudio.Controllers
 {

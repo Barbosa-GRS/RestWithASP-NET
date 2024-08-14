@@ -6,6 +6,7 @@ using RestWithASP_NET.Business.Implementations;
 using RestWithASP_NET.Model.Context;
 using RestWithASP_NET.Repository;
 using RestWithASP_NET.Repository.Implementations;
+using RestWithASPNETErudio.Repository.Implementations;
 using Serilog;
 
 
@@ -34,10 +35,15 @@ var builder = WebApplication.CreateBuilder(args);
 
 
        // Dependency Injection
+
        builder.Services.AddScoped<IPersonBusiness, PersonBusinessImplementation>();
        builder.Services.AddScoped<IPersonRepository, PersonRepositoryImplementation>();
+       builder.Services.AddScoped<IBookBusiness, BookBusinessImplementation>();
+       builder.Services.AddScoped<IBookRepository, BookRepositoryImplementation>();
 
-        var app = builder.Build();
+
+
+var app = builder.Build();
 
         
         // Configure the HTTP request pipeline.

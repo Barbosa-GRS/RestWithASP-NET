@@ -1,9 +1,9 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.Security.Cryptography.X509Certificates;
 
-namespace RestWithASP_NET.Model.Context
+namespace RestWithASP_NET.Model
 {
-    [Table ("books")]
+    [Table("books")]
     public class Book
     {
         [Column("id")]
@@ -18,8 +18,8 @@ namespace RestWithASP_NET.Model.Context
         [Column("price")]
         public decimal Price { get; set; }
 
-        [Column("lauch_date")]
-        public DateTime LauchDate { get; set; }
+        [Column("launch_date")]
+        public DateTime LaunchDate { get; set; }
 
 
     }
