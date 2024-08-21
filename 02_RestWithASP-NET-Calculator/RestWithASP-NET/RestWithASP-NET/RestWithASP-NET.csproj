@@ -8,7 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Model\Script\" />
+    <Compile Remove="Model\Script\**" />
+    <Content Remove="Model\Script\**" />
+    <EmbeddedResource Remove="Model\Script\**" />
+    <None Remove="Model\Script\**" />
   </ItemGroup>
 
   <ItemGroup>

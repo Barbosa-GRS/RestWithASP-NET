@@ -5,8 +5,7 @@ using RestWithASP_NET.Business;
 using RestWithASP_NET.Business.Implementations;
 using RestWithASP_NET.Model.Context;
 using RestWithASP_NET.Repository;
-using RestWithASP_NET.Repository.Implementations;
-using RestWithASPNETErudio.Repository.Implementations;
+using RestWithASP_NET.Repository.Generic;
 using Serilog;
 
 
@@ -37,9 +36,9 @@ var builder = WebApplication.CreateBuilder(args);
        // Dependency Injection
 
        builder.Services.AddScoped<IPersonBusiness, PersonBusinessImplementation>();
-       builder.Services.AddScoped<IPersonRepository, PersonRepositoryImplementation>();
        builder.Services.AddScoped<IBookBusiness, BookBusinessImplementation>();
-       builder.Services.AddScoped<IBookRepository, BookRepositoryImplementation>();
+
+       builder.Services.AddScoped(typeof(IRepository<>), typeof(GenericRepository<>)); ;
 
 
 

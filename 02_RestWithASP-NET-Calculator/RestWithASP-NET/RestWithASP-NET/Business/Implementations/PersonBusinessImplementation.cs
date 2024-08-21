@@ -7,16 +7,16 @@ using System;
 
 namespace RestWithASP_NET.Business.Implementations
 {
-    public class BookBusinessImplementation : IBookBusiness
+    public class PersonBusinessImplementation : IPersonBusiness
     {
-        private readonly IBookRepository _repository;
+        private readonly IRepository<Person>  _repository;
 
-        public BookBusinessImplementation(IBookRepository repository)
+        public PersonBusinessImplementation(IRepository<Person> repository) 
         {
             _repository = repository;
         }
 
-        public List<Model.Book> FindAll()
+        public List<Model.Person> FindAll()
         {
             /* sem banco de dados
              List<Person> persons = new List<Person>();
@@ -28,30 +28,30 @@ namespace RestWithASP_NET.Business.Implementations
             return _repository.FindAll();
         }
 
-        public Model.Book FindByID(long id)
+        public Model.Person FindByID(long id)
         {
             return _repository.FindByID(id);
 
         }
 
-        public Model.Book Create(Model.Book book)
+        public Model.Person Create(Model.Person person)
         {
-            return _repository.Create(book);
+            return _repository.Create(person);
         }
 
-        public Model.Book Update(Model.Book book)
+        public Model.Person Update(Model.Person person)
         {
-            return _repository.Update(book);
+            return _repository.Update(person);
         }
 
-
+        
 
         public void Delete(long id)
         {
             _repository.Delete(id);
         }
-
-
+                   
+               
     }
 
-}
+    }
