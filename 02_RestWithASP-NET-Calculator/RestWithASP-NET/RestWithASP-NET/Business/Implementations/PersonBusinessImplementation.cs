@@ -1,10 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore.Query.SqlExpressions;
-using RestWithASP_NET.Business;
+﻿using RestWithASP_NET.Data.Converter.Implementations;
 using RestWithASP_NET.Model;
-using RestWithASP_NET.Model.Context;
 using RestWithASP_NET.Repository;
-using System;
-
+using RestWithASP_NET.Data.VO;
 namespace RestWithASP_NET.Business.Implementations
 {
     public class PersonBusinessImplementation : IPersonBusiness
