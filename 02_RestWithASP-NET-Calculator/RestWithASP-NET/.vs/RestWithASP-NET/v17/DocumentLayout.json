@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\02_restwithasp-net-calculator\\restwithasp-net\\restwithasp-net\\hypermedia\\contentresponseenricher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\hypermedia\\contentresponseenricher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\02_restwithasp-net-calculator\\restwithasp-net\\restwithasp-net\\hypermedia\\abstract\\iresponseenricher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\hypermedia\\abstract\\iresponseenricher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\02_restwithasp-net-calculator\\restwithasp-net\\restwithasp-net\\hypermedia\\hypermedialink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\hypermedia\\hypermedialink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\02_restwithasp-net-calculator\\restwithasp-net\\restwithasp-net\\hypermedia\\abstract\\isupporthypermedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\hypermedia\\abstract\\isupporthypermedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\02_restwithasp-net-calculator\\restwithasp-net\\restwithasp-net\\hypermedia\\filters\\hypermediafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\hypermedia\\filters\\hypermediafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\02_restwithasp-net-calculator\\restwithasp-net\\restwithasp-net\\hypermedia\\constants\\httpactionverb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\hypermedia\\constants\\httpactionverb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\02_restwithasp-net-calculator\\restwithasp-net\\restwithasp-net\\hypermedia\\constants\\relationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\hypermedia\\constants\\relationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\02_restwithasp-net-calculator\\restwithasp-net\\restwithasp-net\\hypermedia\\constants\\responsetypeformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\hypermedia\\constants\\responsetypeformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\02_restwithasp-net-calculator\\restwithasp-net\\restwithasp-net\\hypermedia\\filters\\hypermediafilteroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\hypermedia\\filters\\hypermediafilteroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\02_restwithasp-net-calculator\\restwithasp-net\\restwithasp-net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +55,129 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ContentResponseEnricher.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Hypermedia\\ContentResponseEnricher.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Hypermedia\\ContentResponseEnricher.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Hypermedia\\ContentResponseEnricher.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Hypermedia\\ContentResponseEnricher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T02:02:08.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HyperMediaLink.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Hypermedia\\HyperMediaLink.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Hypermedia\\HyperMediaLink.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Hypermedia\\HyperMediaLink.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Hypermedia\\HyperMediaLink.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:51:53.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HyperMediaFilter.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Hypermedia\\Filters\\HyperMediaFilter.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Hypermedia\\Filters\\HyperMediaFilter.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Hypermedia\\Filters\\HyperMediaFilter.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Hypermedia\\Filters\\HyperMediaFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:41:03.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HyperMediaFilterOptions.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Hypermedia\\Filters\\HyperMediaFilterOptions.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Hypermedia\\Filters\\HyperMediaFilterOptions.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Hypermedia\\Filters\\HyperMediaFilterOptions.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Hypermedia\\Filters\\HyperMediaFilterOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:38:18.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResponseTypeFormat.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Hypermedia\\Constants\\ResponseTypeFormat.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Hypermedia\\Constants\\ResponseTypeFormat.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Hypermedia\\Constants\\ResponseTypeFormat.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Hypermedia\\Constants\\ResponseTypeFormat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:34:43.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RelationType.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Hypermedia\\Constants\\RelationType.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Hypermedia\\Constants\\RelationType.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Hypermedia\\Constants\\RelationType.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Hypermedia\\Constants\\RelationType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:31:28.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HttpActionVerb.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Hypermedia\\Constants\\HttpActionVerb.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Hypermedia\\Constants\\HttpActionVerb.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Hypermedia\\Constants\\HttpActionVerb.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Hypermedia\\Constants\\HttpActionVerb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:28:12.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISupportHyperMedia.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Hypermedia\\Abstract\\ISupportHyperMedia.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Hypermedia\\Abstract\\ISupportHyperMedia.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Hypermedia\\Abstract\\ISupportHyperMedia.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Hypermedia\\Abstract\\ISupportHyperMedia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:26:06.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IResponseEnricher.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Hypermedia\\Abstract\\IResponseEnricher.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Hypermedia\\Abstract\\IResponseEnricher.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Hypermedia\\Abstract\\IResponseEnricher.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Hypermedia\\Abstract\\IResponseEnricher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:21:25.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Program.cs",
               "RelativeDocumentMoniker": "RestWithASP-NET\\Program.cs",
               "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\02_RestWithASP-NET-Calculator\\RestWithASP-NET\\RestWithASP-NET\\Program.cs",
               "RelativeToolTip": "RestWithASP-NET\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAAAfAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAwwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T00:47:33.429Z",
               "EditorCaption": ""
