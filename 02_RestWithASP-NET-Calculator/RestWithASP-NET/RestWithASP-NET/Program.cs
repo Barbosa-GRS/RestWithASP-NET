@@ -4,6 +4,8 @@ using Microsoft.Net.Http.Headers;
 using MySqlConnector;
 using RestWithASP_NET.Business;
 using RestWithASP_NET.Business.Implementations;
+using RestWithASP_NET.Hypermedia.Enricher;
+using RestWithASP_NET.Hypermedia.Filters;
 using RestWithASP_NET.Model.Context;
 using RestWithASP_NET.Repository;
 using RestWithASP_NET.Repository.Generic;
@@ -29,13 +31,21 @@ var builder = WebApplication.CreateBuilder(args);
         }
 
 builder.Services.AddMvc(options =>
-{
-    options.RespectBrowserAcceptHeader = true;
+        {
+            options.RespectBrowserAcceptHeader = true;
 
-    options.FormatterMappings.SetMediaTypeMappingForFormat("xml", MediaTypeHeaderValue.Parse("application/xml"));
-    options.FormatterMappings.SetMediaTypeMappingForFormat("json", MediaTypeHeaderValue.Parse("application/json"));
-})
+            options.FormatterMappings.SetMediaTypeMappingForFormat("xml", MediaTypeHeaderValue.Parse("application/xml"));
+            options.FormatterMappings.SetMediaTypeMappingForFormat("json", MediaTypeHeaderValue.Parse("application/json"));
+        })
     .AddXmlSerializerFormatters();
+
+// add Hateos
+       var filterOptions = new HyperMediaFilterOptions();
+        filterOptions.ContetResponseEnricherList.Add(new PersonEnricher());
+        filterOptions.ContetResponseEnricherList.Add(new BookEnricher());
+
+builder.Services.AddSingleton(filterOptions);
+
 
        // Versioning API
        builder.Services.AddApiVersioning();
@@ -60,6 +70,7 @@ var app = builder.Build();
         app.UseAuthorization();
 
         app.MapControllers();
+        app.MapControllerRoute("DefaultApi", "{controller=values}/v{version=apiVersion}/{id?}");
 
         app.Run();
 
