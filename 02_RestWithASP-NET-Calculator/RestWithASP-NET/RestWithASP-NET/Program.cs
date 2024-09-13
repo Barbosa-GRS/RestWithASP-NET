@@ -1,6 +1,8 @@
 using EvolveDb;
+using Microsoft.AspNetCore.Rewrite;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Net.Http.Headers;
+using Microsoft.OpenApi.Models;
 using MySqlConnector;
 using RestWithASP_NET.Business;
 using RestWithASP_NET.Business.Implementations;
@@ -10,15 +12,39 @@ using RestWithASP_NET.Model.Context;
 using RestWithASP_NET.Repository;
 using RestWithASP_NET.Repository.Generic;
 using Serilog;
+using System.Reflection;
 
 
 var builder = WebApplication.CreateBuilder(args);
+var appName = "REST API's From 0 to Azure with ASP.NET Core 5 and Docker";
+var appVersion = "v1";
+var appDescription = $"API RESTful developed in curse '{appName}'";
 
-        // Add services to the container.
 
-       builder.Services.AddControllers();
+// Add services to the container.
 
-       var connection = builder.Configuration["MySQLConnection:MySQLConnectionString"];
+builder.Services.AddRouting(options => options.LowercaseUrls = true);       
+builder.Services.AddControllers();
+
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1",
+        new OpenApiInfo
+        {
+            Title = appName,
+            Version = appVersion,
+            Description =appDescription,
+            Contact = new OpenApiContact
+            {
+                Name = "Leandro Costa",
+                Url = new Uri("https://pub.erudio.com.br/meus-cursos")
+            }
+        });
+});
+builder.Services.AddMvc();      
+
+var connection = builder.Configuration["MySQLConnection:MySQLConnectionString"];
        builder.Services.AddDbContext<MySQLContext> (options => options.UseMySql(
             connection,
             new MySqlServerVersion(new Version(8,0,36))));
@@ -30,25 +56,26 @@ var builder = WebApplication.CreateBuilder(args);
             MigrateDatabase(connection);
         }
 
-builder.Services.AddMvc(options =>
-        {
-            options.RespectBrowserAcceptHeader = true;
+        builder.Services.AddMvc(options =>
+                {
+                    options.RespectBrowserAcceptHeader = true;
 
-            options.FormatterMappings.SetMediaTypeMappingForFormat("xml", MediaTypeHeaderValue.Parse("application/xml"));
-            options.FormatterMappings.SetMediaTypeMappingForFormat("json", MediaTypeHeaderValue.Parse("application/json"));
-        })
-    .AddXmlSerializerFormatters();
+                    options.FormatterMappings.SetMediaTypeMappingForFormat("xml", MediaTypeHeaderValue.Parse("application/xml"));
+                    options.FormatterMappings.SetMediaTypeMappingForFormat("json", MediaTypeHeaderValue.Parse("application/json"));
+                })
+            .AddXmlSerializerFormatters();
 
 // add Hateos
        var filterOptions = new HyperMediaFilterOptions();
         filterOptions.ContetResponseEnricherList.Add(new PersonEnricher());
         filterOptions.ContetResponseEnricherList.Add(new BookEnricher());
 
-builder.Services.AddSingleton(filterOptions);
+        builder.Services.AddSingleton(filterOptions);
 
 
        // Versioning API
        builder.Services.AddApiVersioning();
+
 
 
        // Dependency Injection
@@ -60,18 +87,30 @@ builder.Services.AddSingleton(filterOptions);
 
 
 
-var app = builder.Build();
+        var app = builder.Build();
 
         
         // Configure the HTTP request pipeline.
 
         app.UseHttpsRedirection();
 
+        app.UseSwagger();
+        app.UseSwaggerUI(c =>
+        {
+            c.SwaggerEndpoint("/swagger/v1/swagger.json",
+                $"{appName} - {appVersion}");
+        });
+
+        var option = new RewriteOptions();
+        option.AddRedirect("^$", "swagger");
+        app.UseRewriter(option);
+
         app.UseAuthorization();
 
         app.MapControllers();
+        
         app.MapControllerRoute("DefaultApi", "{controller=values}/v{version=apiVersion}/{id?}");
-
+       
         app.Run();
 
 void MigrateDatabase(string connection)

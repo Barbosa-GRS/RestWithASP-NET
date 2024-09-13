@@ -13,7 +13,7 @@ namespace RestWithASP_NET.Controllers
     [Route("api/[controller]/v{version:apiVersion}")]
     public class PersonController : ControllerBase
     {
-        
+
 
         private readonly ILogger<PersonController> _logger;
         private IPersonBusiness _personBusiness;
@@ -25,6 +25,10 @@ namespace RestWithASP_NET.Controllers
         }
 
         [HttpGet]
+        [ProducesResponseType((200), Type = typeof(List<PersonVO>))]
+        [ProducesResponseType(204)]
+        [ProducesResponseType(400)]
+        [ProducesResponseType(401)]
         [TypeFilter(typeof(HyperMediaFilter))]
         public IActionResult Get()
         {
@@ -33,6 +37,10 @@ namespace RestWithASP_NET.Controllers
         }
         
         [HttpGet("{id}")]
+        [ProducesResponseType((200), Type = typeof(PersonVO))]
+        [ProducesResponseType(204)]
+        [ProducesResponseType(400)]
+        [ProducesResponseType(401)]
         [TypeFilter(typeof(HyperMediaFilter))]
         public IActionResult Get(long id)
         {
@@ -42,6 +50,9 @@ namespace RestWithASP_NET.Controllers
         }
 
         [HttpPost]
+        [ProducesResponseType((200), Type = typeof(PersonVO))]
+        [ProducesResponseType(400)]
+        [ProducesResponseType(401)]
         [TypeFilter(typeof(HyperMediaFilter))]
         public IActionResult Post([FromBody] PersonVO person)
         {
@@ -50,6 +61,9 @@ namespace RestWithASP_NET.Controllers
         }
 
         [HttpPut]
+        [ProducesResponseType((200), Type = typeof(PersonVO))]
+        [ProducesResponseType(400)]
+        [ProducesResponseType(401)]
         [TypeFilter(typeof(HyperMediaFilter))]
         public IActionResult Put([FromBody] PersonVO person)
         {
@@ -58,6 +72,9 @@ namespace RestWithASP_NET.Controllers
         }
 
         [HttpDelete("{id}")]
+        [ProducesResponseType(204)]
+        [ProducesResponseType(400)]
+        [ProducesResponseType(401)]
         public IActionResult Delete(long id)
         {
             _personBusiness.Delete(id);
