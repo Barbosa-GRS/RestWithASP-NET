@@ -23,6 +23,13 @@ var appDescription = $"API RESTful developed in curse '{appName}'";
 
 // Add services to the container.
 
+builder.Services.AddCors(options => options.AddDefaultPolicy(builder =>
+{
+    builder.AllowAnyOrigin()
+    .AllowAnyMethod()
+    .AllowAnyHeader();
+}));
+
 builder.Services.AddRouting(options => options.LowercaseUrls = true);       
 builder.Services.AddControllers();
 
@@ -93,6 +100,9 @@ var connection = builder.Configuration["MySQLConnection:MySQLConnectionString"];
         // Configure the HTTP request pipeline.
 
         app.UseHttpsRedirection();
+        app.UseRouting();
+
+        app.UseCors();
 
         app.UseSwagger();
         app.UseSwaggerUI(c =>
