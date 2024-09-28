@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\04_RestWithASP-NET-Verbo PATCH\\RestWithASP-NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\04_restwithasp-net-verbo patch\\restwithasp-net\\restwithasp-net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\04_restwithasp-net-verbo patch\\restwithasp-net\\restwithasp-net\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\04_restwithasp-net-verbo patch\\restwithasp-net\\restwithasp-net\\hypermedia\\enricher\\personenricher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\hypermedia\\enricher\\personenricher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\04_restwithasp-net-verbo patch\\restwithasp-net\\restwithasp-net\\business\\implementations\\personbusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\business\\implementations\\personbusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\04_restwithasp-net-verbo patch\\restwithasp-net\\restwithasp-net\\business\\ipersonbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\business\\ipersonbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\04_restwithasp-net-verbo patch\\restwithasp-net\\restwithasp-net\\repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\04_restwithasp-net-verbo patch\\restwithasp-net\\restwithasp-net\\repository\\generic\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\repository\\generic\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\04_restwithasp-net-verbo patch\\restwithasp-net\\restwithasp-net\\repository\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\repository\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\04_restwithasp-net-verbo patch\\restwithasp-net\\restwithasp-net\\data\\vo\\personvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\data\\vo\\personvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\04_restwithasp-net-verbo patch\\restwithasp-net\\restwithasp-net\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\04_RestWithASP-NET-Verbo PATCH\\RestWithASP-NET\\RestWithASP-NET\\Program.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Program.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\04_RestWithASP-NET-Verbo PATCH\\RestWithASP-NET\\RestWithASP-NET\\Program.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T02:17:41.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\04_RestWithASP-NET-Verbo PATCH\\RestWithASP-NET\\RestWithASP-NET\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\04_RestWithASP-NET-Verbo PATCH\\RestWithASP-NET\\RestWithASP-NET\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAswFQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T02:15:53.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonEnricher.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\04_RestWithASP-NET-Verbo PATCH\\RestWithASP-NET\\RestWithASP-NET\\Hypermedia\\Enricher\\PersonEnricher.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Hypermedia\\Enricher\\PersonEnricher.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\04_RestWithASP-NET-Verbo PATCH\\RestWithASP-NET\\RestWithASP-NET\\Hypermedia\\Enricher\\PersonEnricher.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Hypermedia\\Enricher\\PersonEnricher.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T02:14:44.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonBusinessImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\04_RestWithASP-NET-Verbo PATCH\\RestWithASP-NET\\RestWithASP-NET\\Business\\Implementations\\PersonBusinessImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Business\\Implementations\\PersonBusinessImplementation.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\04_RestWithASP-NET-Verbo PATCH\\RestWithASP-NET\\RestWithASP-NET\\Business\\Implementations\\PersonBusinessImplementation.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Business\\Implementations\\PersonBusinessImplementation.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T02:11:27.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPersonBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\04_RestWithASP-NET-Verbo PATCH\\RestWithASP-NET\\RestWithASP-NET\\Business\\IPersonBusiness.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Business\\IPersonBusiness.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\04_RestWithASP-NET-Verbo PATCH\\RestWithASP-NET\\RestWithASP-NET\\Business\\IPersonBusiness.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Business\\IPersonBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T02:10:56.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\04_RestWithASP-NET-Verbo PATCH\\RestWithASP-NET\\RestWithASP-NET\\Repository\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Repository\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\04_RestWithASP-NET-Verbo PATCH\\RestWithASP-NET\\RestWithASP-NET\\Repository\\PersonRepository.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Repository\\PersonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T02:01:03.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\04_RestWithASP-NET-Verbo PATCH\\RestWithASP-NET\\RestWithASP-NET\\Repository\\Generic\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Repository\\Generic\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\04_RestWithASP-NET-Verbo PATCH\\RestWithASP-NET\\RestWithASP-NET\\Repository\\Generic\\GenericRepository.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Repository\\Generic\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T01:58:40.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\04_RestWithASP-NET-Verbo PATCH\\RestWithASP-NET\\RestWithASP-NET\\Repository\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Repository\\IPersonRepository.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\04_RestWithASP-NET-Verbo PATCH\\RestWithASP-NET\\RestWithASP-NET\\Repository\\IPersonRepository.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Repository\\IPersonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T01:56:11.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonVO.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\04_RestWithASP-NET-Verbo PATCH\\RestWithASP-NET\\RestWithASP-NET\\Data\\VO\\PersonVO.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Data\\VO\\PersonVO.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\04_RestWithASP-NET-Verbo PATCH\\RestWithASP-NET\\RestWithASP-NET\\Data\\VO\\PersonVO.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Data\\VO\\PersonVO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T01:54:39.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\04_RestWithASP-NET-Verbo PATCH\\RestWithASP-NET\\RestWithASP-NET\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Model\\Person.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\04_RestWithASP-NET-Verbo PATCH\\RestWithASP-NET\\RestWithASP-NET\\Model\\Person.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Model\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T01:53:06.923Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
