@@ -1,0 +1,112 @@
+name: dockercompose5009751567444514012
+services:
+  db:
+    build:
+      context: C:\Users\tcxdr\OneDrive\Área de Trabalho\PROG\RestWithASP-NET\RestWithASP-NET\07_RestWithASP-NET-DOCKER\RestWithASP-NET
+      dockerfile: db/Dockerfile
+    command:
+      - mysqld
+      - --default-authentication-plugin=mysql_native_password
+    environment:
+      MYSQL_DATABASE: rest_with_asp_net_udemy
+      MYSQL_PASSWORD: docker
+      MYSQL_ROOT_PASSWORD: docker
+      MYSQL_USER: docker
+      TZ: America/Sao_Paulo
+    image: rest-with-asp-net-db
+    networks:
+      udemy-network: null
+    ports:
+      - mode: ingress
+        target: 3306
+        published: "3308"
+        protocol: tcp
+    restart: always
+  rest-with-asp-net:
+    build:
+      context: C:\Users\tcxdr\OneDrive\Área de Trabalho\PROG\RestWithASP-NET\RestWithASP-NET\07_RestWithASP-NET-DOCKER\RestWithASP-NET
+      dockerfile: RestWithASP-NET/Dockerfile
+      args:
+        BUILD_CONFIGURATION: Release
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: RestWithASP-NET
+    container_name: RestWithASP-NET
+    depends_on:
+      db:
+        condition: service_started
+        required: true
+    entrypoint:
+      - dotnet
+      - --roll-forward
+      - Major
+      - /VSTools/DistrolessHelper/DistrolessHelper.dll
+      - --wait
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      TZ: America/Sao_Paulo
+    image: rest_with_asp_net_udemy
+    labels:
+      com.microsoft.visual-studio.project-name: RestWithASP-NET
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /.nuget/packages  "/app/RestWithASP-NET.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: dotnet --roll-forward Major /VSTools/DistrolessHelper/DistrolessHelper.dll --stop dotnet
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    networks:
+      udemy-network: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "4430"
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        published: "44300"
+        protocol: tcp
+    tty: true
+    volumes:
+      - type: bind
+        source: C:\Users\tcxdr\vsdbg\vs2017u5
+        target: /remote_debugger
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\tcxdr\AppData\Roaming\ASP.NET\Https
+        target: /root/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\tcxdr\AppData\Roaming\ASP.NET\Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\tcxdr\AppData\Roaming\Microsoft\UserSecrets
+        target: /root/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\tcxdr\AppData\Roaming\Microsoft\UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Sdks\Microsoft.Docker.Sdk\tools\linux-x64\net8.0
+        target: /VSTools
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\HotReload
+        target: /HotReloadAgent
+        read_only: true
+        bind:
+          create_host_path: true
+networks:
+  udemy-network:
+    name: dockercompose5009751567444514012_udemy-network
+    driver: bridge

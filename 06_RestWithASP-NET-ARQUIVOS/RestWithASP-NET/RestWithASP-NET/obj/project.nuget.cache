@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jWTO0DOJEdk=",
+  "dgSpecHash": "OBbnM8ITFMI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\tcxdr\\OneDrive\\Área de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\05_RestWithASP-NET-QUERY PARAMS E PAGED SEARCH\\RestWithASP-NET\\RestWithASP-NET\\RestWithASP-NET.csproj",
+  "projectFilePath": "C:\\Users\\tcxdr\\OneDrive\\Área de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\06_RestWithASP-NET-ARQUIVOS\\RestWithASP-NET\\RestWithASP-NET\\RestWithASP-NET.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tcxdr\\.nuget\\packages\\asp.versioning.abstractions\\8.1.0\\asp.versioning.abstractions.8.1.0.nupkg.sha512",
     "C:\\Users\\tcxdr\\.nuget\\packages\\asp.versioning.http\\8.1.0\\asp.versioning.http.8.1.0.nupkg.sha512",

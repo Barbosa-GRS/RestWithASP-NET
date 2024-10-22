@@ -1,34 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\05_RestWithASP-NET-QUERY PARAMS E PAGED SEARCH\\RestWithASP-NET\\",
+  "WorkspaceRootPath": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\06_RestWithASP-NET-ARQUIVOS\\RestWithASP-NET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\05_restwithasp-net-query params e paged search\\restwithasp-net\\restwithasp-net\\business\\implementations\\personbusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\business\\implementations\\personbusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\06_restwithasp-net-arquivos\\restwithasp-net\\restwithasp-net\\business\\implementations\\filebusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\business\\implementations\\filebusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\05_restwithasp-net-query params e paged search\\restwithasp-net\\restwithasp-net\\repository\\generic\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\repository\\generic\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\06_restwithasp-net-arquivos\\restwithasp-net\\restwithasp-net\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\05_restwithasp-net-query params e paged search\\restwithasp-net\\restwithasp-net\\business\\ipersonbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\business\\ipersonbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\06_restwithasp-net-arquivos\\restwithasp-net\\restwithasp-net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\05_restwithasp-net-query params e paged search\\restwithasp-net\\restwithasp-net\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\06_restwithasp-net-arquivos\\restwithasp-net\\restwithasp-net\\data\\vo\\filedetailvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\data\\vo\\filedetailvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\05_restwithasp-net-query params e paged search\\restwithasp-net\\restwithasp-net\\repository\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\repository\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\05_restwithasp-net-query params e paged search\\restwithasp-net\\restwithasp-net\\hypermedia\\utils\\pagedsearchvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\hypermedia\\utils\\pagedsearchvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\05_restwithasp-net-query params e paged search\\restwithasp-net\\restwithasp-net\\hypermedia\\contentresponseenricher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\hypermedia\\contentresponseenricher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\06_restwithasp-net-arquivos\\restwithasp-net\\restwithasp-net\\business\\ifilebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\business\\ifilebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,96 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PersonController.cs",
-              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\05_RestWithASP-NET-QUERY PARAMS E PAGED SEARCH\\RestWithASP-NET\\RestWithASP-NET\\Controllers\\PersonController.cs",
-              "RelativeDocumentMoniker": "RestWithASP-NET\\Controllers\\PersonController.cs",
-              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\05_RestWithASP-NET-QUERY PARAMS E PAGED SEARCH\\RestWithASP-NET\\RestWithASP-NET\\Controllers\\PersonController.cs",
-              "RelativeToolTip": "RestWithASP-NET\\Controllers\\PersonController.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAADwvysAAABeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T02:15:48.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PersonBusinessImplementation.cs",
-              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\05_RestWithASP-NET-QUERY PARAMS E PAGED SEARCH\\RestWithASP-NET\\RestWithASP-NET\\Business\\Implementations\\PersonBusinessImplementation.cs",
-              "RelativeDocumentMoniker": "RestWithASP-NET\\Business\\Implementations\\PersonBusinessImplementation.cs",
-              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\05_RestWithASP-NET-QUERY PARAMS E PAGED SEARCH\\RestWithASP-NET\\RestWithASP-NET\\Business\\Implementations\\PersonBusinessImplementation.cs",
-              "RelativeToolTip": "RestWithASP-NET\\Business\\Implementations\\PersonBusinessImplementation.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAwwCcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T01:54:45.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IPersonBusiness.cs",
-              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\05_RestWithASP-NET-QUERY PARAMS E PAGED SEARCH\\RestWithASP-NET\\RestWithASP-NET\\Business\\IPersonBusiness.cs",
-              "RelativeDocumentMoniker": "RestWithASP-NET\\Business\\IPersonBusiness.cs",
-              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\05_RestWithASP-NET-QUERY PARAMS E PAGED SEARCH\\RestWithASP-NET\\RestWithASP-NET\\Business\\IPersonBusiness.cs",
-              "RelativeToolTip": "RestWithASP-NET\\Business\\IPersonBusiness.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABtAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\06_RestWithASP-NET-ARQUIVOS\\RestWithASP-NET\\RestWithASP-NET\\Program.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Program.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\06_RestWithASP-NET-ARQUIVOS\\RestWithASP-NET\\RestWithASP-NET\\Program.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Program.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAAAKcAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T01:52:16.62Z",
+              "WhenOpened": "2024-10-14T16:57:53.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\05_RestWithASP-NET-QUERY PARAMS E PAGED SEARCH\\RestWithASP-NET\\RestWithASP-NET\\Repository\\Generic\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "RestWithASP-NET\\Repository\\Generic\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\05_RestWithASP-NET-QUERY PARAMS E PAGED SEARCH\\RestWithASP-NET\\RestWithASP-NET\\Repository\\Generic\\GenericRepository.cs",
-              "RelativeToolTip": "RestWithASP-NET\\Repository\\Generic\\GenericRepository.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAcwGQAAAAUAAAA",
+              "Title": "FileController.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\06_RestWithASP-NET-ARQUIVOS\\RestWithASP-NET\\RestWithASP-NET\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Controllers\\FileController.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\06_RestWithASP-NET-ARQUIVOS\\RestWithASP-NET\\RestWithASP-NET\\Controllers\\FileController.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Controllers\\FileController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwBcAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T01:45:31.636Z",
+              "WhenOpened": "2024-10-14T16:50:00.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileBusinessImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\06_RestWithASP-NET-ARQUIVOS\\RestWithASP-NET\\RestWithASP-NET\\Business\\Implementations\\FileBusinessImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Business\\Implementations\\FileBusinessImplementation.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\06_RestWithASP-NET-ARQUIVOS\\RestWithASP-NET\\RestWithASP-NET\\Business\\Implementations\\FileBusinessImplementation.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Business\\Implementations\\FileBusinessImplementation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:20:13.354Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\05_RestWithASP-NET-QUERY PARAMS E PAGED SEARCH\\RestWithASP-NET\\RestWithASP-NET\\Repository\\Generic\\IRepository.cs",
-              "RelativeDocumentMoniker": "RestWithASP-NET\\Repository\\Generic\\IRepository.cs",
-              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\05_RestWithASP-NET-QUERY PARAMS E PAGED SEARCH\\RestWithASP-NET\\RestWithASP-NET\\Repository\\Generic\\IRepository.cs",
-              "RelativeToolTip": "RestWithASP-NET\\Repository\\Generic\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Title": "IFileBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\06_RestWithASP-NET-ARQUIVOS\\RestWithASP-NET\\RestWithASP-NET\\Business\\IFileBusiness.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Business\\IFileBusiness.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\06_RestWithASP-NET-ARQUIVOS\\RestWithASP-NET\\RestWithASP-NET\\Business\\IFileBusiness.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Business\\IFileBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T01:43:49.486Z",
+              "WhenOpened": "2024-10-14T16:12:16.769Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ContentResponseEnricher.cs",
-              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\05_RestWithASP-NET-QUERY PARAMS E PAGED SEARCH\\RestWithASP-NET\\RestWithASP-NET\\Hypermedia\\ContentResponseEnricher.cs",
-              "RelativeDocumentMoniker": "RestWithASP-NET\\Hypermedia\\ContentResponseEnricher.cs",
-              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\05_RestWithASP-NET-QUERY PARAMS E PAGED SEARCH\\RestWithASP-NET\\RestWithASP-NET\\Hypermedia\\ContentResponseEnricher.cs",
-              "RelativeToolTip": "RestWithASP-NET\\Hypermedia\\ContentResponseEnricher.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAIwB4AAAAYAAAA",
+              "DocumentIndex": 3,
+              "Title": "FileDetailVO.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\06_RestWithASP-NET-ARQUIVOS\\RestWithASP-NET\\RestWithASP-NET\\Data\\VO\\FileDetailVO.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Data\\VO\\FileDetailVO.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\06_RestWithASP-NET-ARQUIVOS\\RestWithASP-NET\\RestWithASP-NET\\Data\\VO\\FileDetailVO.cs",
+              "RelativeToolTip": "RestWithASP-NET\\Data\\VO\\FileDetailVO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T01:38:46.017Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PagedSearchVO.cs",
-              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\05_RestWithASP-NET-QUERY PARAMS E PAGED SEARCH\\RestWithASP-NET\\RestWithASP-NET\\Hypermedia\\Utils\\PagedSearchVO.cs",
-              "RelativeDocumentMoniker": "RestWithASP-NET\\Hypermedia\\Utils\\PagedSearchVO.cs",
-              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\05_RestWithASP-NET-QUERY PARAMS E PAGED SEARCH\\RestWithASP-NET\\RestWithASP-NET\\Hypermedia\\Utils\\PagedSearchVO.cs",
-              "RelativeToolTip": "RestWithASP-NET\\Hypermedia\\Utils\\PagedSearchVO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T01:23:28.033Z"
+              "WhenOpened": "2024-10-14T16:10:06.702Z",
+              "EditorCaption": ""
             }
           ]
         }

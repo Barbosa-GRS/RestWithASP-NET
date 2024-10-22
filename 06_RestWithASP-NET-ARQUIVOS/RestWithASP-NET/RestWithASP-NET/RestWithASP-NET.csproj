@@ -26,6 +26,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="UploadDir\" />
     <Folder Include="RestWithASP_NET\Model\" />
   </ItemGroup>
 

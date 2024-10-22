@@ -3104,11 +3104,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tcxdr\\OneDrive\\Área de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\05_RestWithASP-NET-QUERY PARAMS E PAGED SEARCH\\RestWithASP-NET\\RestWithASP-NET\\RestWithASP-NET.csproj",
+      "projectUniqueName": "C:\\Users\\tcxdr\\OneDrive\\Área de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\06_RestWithASP-NET-ARQUIVOS\\RestWithASP-NET\\RestWithASP-NET\\RestWithASP-NET.csproj",
       "projectName": "RestWithASP-NET",
-      "projectPath": "C:\\Users\\tcxdr\\OneDrive\\Área de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\05_RestWithASP-NET-QUERY PARAMS E PAGED SEARCH\\RestWithASP-NET\\RestWithASP-NET\\RestWithASP-NET.csproj",
+      "projectPath": "C:\\Users\\tcxdr\\OneDrive\\Área de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\06_RestWithASP-NET-ARQUIVOS\\RestWithASP-NET\\RestWithASP-NET\\RestWithASP-NET.csproj",
       "packagesPath": "C:\\Users\\tcxdr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tcxdr\\OneDrive\\Área de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\05_RestWithASP-NET-QUERY PARAMS E PAGED SEARCH\\RestWithASP-NET\\RestWithASP-NET\\obj\\",
+      "outputPath": "C:\\Users\\tcxdr\\OneDrive\\Área de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\06_RestWithASP-NET-ARQUIVOS\\RestWithASP-NET\\RestWithASP-NET\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tcxdr\\AppData\\Roaming\\NuGet\\NuGet.Config",
