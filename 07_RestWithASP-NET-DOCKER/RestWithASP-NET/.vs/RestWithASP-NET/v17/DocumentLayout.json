@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\07_RestWithASP-NET-DOCKER\\RestWithASP-NET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\07_restwithasp-net-docker\\restwithasp-net\\restwithasp-net\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\07_restwithasp-net-docker\\restwithasp-net\\restwithasp-net\\business\\implementations\\bookbusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\business\\implementations\\bookbusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\07_restwithasp-net-docker\\restwithasp-net\\restwithasp-net\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\07_restwithasp-net-docker\\restwithasp-net\\restwithasp-net\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|solutionrelative:restwithasp-net\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE6C5863-1CE6-47BF-8B21-1A9390954CFF}|RestWithASP-NET\\RestWithASP-NET.csproj|c:\\users\\tcxdr\\onedrive\\\u00E1rea de trabalho\\prog\\restwithasp-net\\restwithasp-net\\07_restwithasp-net-docker\\restwithasp-net\\restwithasp-net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -35,12 +39,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BookBusinessImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\07_RestWithASP-NET-DOCKER\\RestWithASP-NET\\RestWithASP-NET\\Business\\Implementations\\BookBusinessImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASP-NET\\Business\\Implementations\\BookBusinessImplementation.cs",
+              "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\07_RestWithASP-NET-DOCKER\\RestWithASP-NET\\RestWithASP-NET\\Business\\Implementations\\BookBusinessImplementation.cs*",
+              "RelativeToolTip": "RestWithASP-NET\\Business\\Implementations\\BookBusinessImplementation.cs*",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:31:25.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\07_RestWithASP-NET-DOCKER\\RestWithASP-NET\\RestWithASP-NET\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "RestWithASP-NET\\Repository\\UserRepository.cs",
               "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\07_RestWithASP-NET-DOCKER\\RestWithASP-NET\\RestWithASP-NET\\Repository\\UserRepository.cs",
               "RelativeToolTip": "RestWithASP-NET\\Repository\\UserRepository.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAcwE8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T21:46:16.791Z",
               "EditorCaption": ""
@@ -53,14 +70,14 @@
               "RelativeDocumentMoniker": "RestWithASP-NET\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\07_RestWithASP-NET-DOCKER\\RestWithASP-NET\\RestWithASP-NET\\Controllers\\AuthController.cs",
               "RelativeToolTip": "RestWithASP-NET\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBkAAAAIAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T13:53:08.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LoginBusinessImplementation.cs",
               "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\07_RestWithASP-NET-DOCKER\\RestWithASP-NET\\RestWithASP-NET\\Business\\Implementations\\LoginBusinessImplementation.cs",
               "RelativeDocumentMoniker": "RestWithASP-NET\\Business\\Implementations\\LoginBusinessImplementation.cs",
@@ -68,12 +85,11 @@
               "RelativeToolTip": "RestWithASP-NET\\Business\\Implementations\\LoginBusinessImplementation.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAA6wBkAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T13:52:50.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T13:52:50.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\07_RestWithASP-NET-DOCKER\\RestWithASP-NET\\RestWithASP-NET\\Program.cs",
               "RelativeDocumentMoniker": "RestWithASP-NET\\Program.cs",
@@ -81,12 +97,11 @@
               "RelativeToolTip": "RestWithASP-NET\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T00:54:44.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T00:54:44.717Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\tcxdr\\OneDrive\\\u00C1rea de Trabalho\\PROG\\RestWithASP-NET\\RestWithASP-NET\\07_RestWithASP-NET-DOCKER\\RestWithASP-NET\\RestWithASP-NET\\appsettings.json",
               "RelativeDocumentMoniker": "RestWithASP-NET\\appsettings.json",
@@ -94,8 +109,7 @@
               "RelativeToolTip": "RestWithASP-NET\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-14T23:35:29.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T23:35:29.013Z"
             }
           ]
         }

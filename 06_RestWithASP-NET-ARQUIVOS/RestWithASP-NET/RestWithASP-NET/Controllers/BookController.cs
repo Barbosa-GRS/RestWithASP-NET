@@ -66,8 +66,13 @@ namespace RestWithASPNETErudio.Controllers
         [TypeFilter(typeof(HyperMediaFilter))]
         public IActionResult Post([FromBody] BookVO book)
         {
-            if (book == null) return BadRequest();
-            return Ok(_bookBusiness.Create(book));
+            if (book == null)
+            {
+                return BadRequest();
+            }
+
+            var bookVO = _bookBusiness.Create(book);
+            return Ok(bookVO);
         }
 
         // Maps PUT requests to https://localhost:{port}/api/book/
