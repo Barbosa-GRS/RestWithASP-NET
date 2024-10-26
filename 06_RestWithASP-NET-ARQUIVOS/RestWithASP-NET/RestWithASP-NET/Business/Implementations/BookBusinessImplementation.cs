@@ -26,7 +26,8 @@ namespace RestWithASP_NET.Business.Implementations
                  Person person = MockPerson(i);
                  persons.Add(person);
              }*/
-            return _converter.Parse(_repository.FindAll());
+            var listBooks = _repository.FindAll();
+            return _converter.Parse(listBooks);
         }
 
         public BookVO FindByID(long id)
