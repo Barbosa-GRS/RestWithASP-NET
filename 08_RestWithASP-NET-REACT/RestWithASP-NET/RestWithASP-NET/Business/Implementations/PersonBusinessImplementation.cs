@@ -51,7 +51,7 @@ namespace RestWithASP_NET.Business.Implementations
             {
                 CurrentPage = page,
                 List =  _converter.Parse(persons),
-                PagedSize = size,
+                PageSize = size,
                 SortDirections = sort,
                 TotalResults = totoalResults,
             };

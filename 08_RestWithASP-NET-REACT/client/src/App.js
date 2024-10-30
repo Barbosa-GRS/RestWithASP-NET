@@ -1,21 +1,12 @@
-import React, {useState} from 'react';
+import React  from 'react';
 
-import Header from './Header';
+import './global.css';
+
+import AppRoutes from './routes';
 
 export default function App() {
-  let counter=0
-
-function increment(){
-  counter ++
-}
-
-  return(
-    <div>
-    <Header>
-      Counter: {counter}
-    </Header>
-    <button onClick={increment}>Add</button>
-    </div>
+    return(
+      <AppRoutes/>
     
   );
 }

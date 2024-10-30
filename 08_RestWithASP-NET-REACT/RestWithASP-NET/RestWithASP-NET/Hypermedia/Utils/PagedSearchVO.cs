@@ -5,7 +5,7 @@ namespace RestWithASP_NET.Hypermedia.Utils
     public class PagedSearchVO<T> where T : ISupportsHyperMedia
     {
         public int CurrentPage {  get; set; }
-        public int PagedSize {  get; set; }
+        public int PageSize {  get; set; }
         public int TotalResults {  get; set; }
         public string  SortFilds {  get; set; }
         public string  SortDirections {  get; set; }
@@ -17,7 +17,7 @@ namespace RestWithASP_NET.Hypermedia.Utils
         public PagedSearchVO(int currentPage, int pagedSize, string sortFilds, string sortDirections)
         {
             CurrentPage = currentPage;
-            PagedSize = pagedSize;
+            PageSize = pagedSize;
             SortFilds = sortFilds;
             SortDirections = sortDirections;
         }
@@ -26,7 +26,7 @@ namespace RestWithASP_NET.Hypermedia.Utils
         {
             Filters = filters;
             CurrentPage = currentPage;
-            PagedSize = pagedSize;
+            PageSize = pagedSize;
             SortFilds = sortFilds;
             SortDirections = sortDirections;
         }
@@ -41,7 +41,7 @@ namespace RestWithASP_NET.Hypermedia.Utils
 
         public int GetPageSize()
         {
-            return PagedSize == 0 ? 10: PagedSize;
+            return PageSize == 0 ? 10: PageSize;
         }
 
     }
